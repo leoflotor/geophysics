@@ -3,6 +3,8 @@
 _In collaboration with the **geophysics group** to analize the interplanetary medium. For me the goal is unknown and so does its purpouse but 
 I'm gradly trying my best to collaborate and understand the physics behind the problem in quesiton. Although I'm not very good at it._
 
+_Ask group name (?)_ :pushpin:
+
 ## Let's start
 
 ### Pre-requisites
@@ -19,7 +21,7 @@ Things to have installed in your pc in order correctly run the script:
 
 Do not run at once the notebook. Do it by cells, from the upper one to bottom one. Exclude the **Past Attempts** section of the notebook.
 
-_That section will be removed in a future version._
+_That section will be removed in a future version._ :pushpin:
 
 The path for both notebooks should be like /path/to/file/notebook.ipynb:
 
@@ -44,7 +46,7 @@ Experienced usrs can modify the data paths directly from the notebooks.
 * Angel Jara
 * **More will be added, I hope...**
 
-_Ask for permission to use their contact info._
+_Ask for permission to use their contact info._ :pushpin:
 
 ## Acknowledgements
 
@@ -53,4 +55,4 @@ guiding me through the steps forward.
 
 ---
 
-Edited by: Leonardo Flores Torres
+Created by Leonardo Flores Torres
